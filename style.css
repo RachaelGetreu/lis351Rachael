@@ -1,0 +1,9 @@
+body {
+	width:960px;
+	height:100%;
+	margin:0px auto;
+	background-color:#FF97EA;
+	background-image:linear-gradient(#ff8ae4, #ffffff);
+	text-align:center;
+	color:#EE1F7C;
+}
