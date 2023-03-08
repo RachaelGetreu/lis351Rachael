@@ -3,3 +3,19 @@
 	color:#ff00e6;
 	text-align:center;
 }
+body{
+	width:800px;
+	margin:0 auto;
+}
+
+nav{
+	background-color:#ffcffa;
+	padding:10px;
+	margin:10px;
+}
+
+li{
+	display:inline;
+	padding:3px;
+	margin:3px;
+}
